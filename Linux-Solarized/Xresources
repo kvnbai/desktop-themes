@@ -1,9 +1,9 @@
 ! ~/.Xresources
 !
-! Wallpaper: ~/Pictures/wallpapers/lara-croft.jpg
-! Conky Foreground: #ad6334
-! Conky Helper Foreground: #ad6334
-! Aether color: #ad6334
+! Wallpaper: ~/Pictures/wallpapers/linux-solarize-wallpaper-*.jpg
+! Conky Foreground: #2d8bcb
+! Conky Helper Foreground: #2d8bcb
+! Aether Color: #2d8bcb
 ! Config file for URxvt
 
 ! Font
@@ -37,77 +37,78 @@ URxvt.pointerBlank: true
 URxvt.visualBell: true
 URxvt.internalBorder: 8
 
-Xcursor.theme: Breeze
+Xcursor.theme: xcursor-breeze
 Xcursor.size: 0
 
 ! special
 *fading: 20
 *fadeColor: black
 
-polybar.foreground: #ad6334
-polybar.foregroundAlt: #ad6334
-polybar.background: #2d2b30
-polybar.backgroundAlt: #ad6334
+polybar.foreground: #0e3642
+polybar.foregroundAlt: #0e3642
+polybar.background: #69b7ed
+polybar.backgroundAlt: #0e3642
 polybar.cursorColor: #c5c8c6
 
-polybar.foregroundFcs: #241b2e
-polybar.backgroundTrn: #aa241b2e
+polybar.foregroundFcs: #2d8bcb
+polybar.backgroundTrn: #2d8bcb
 polybar.borderTrn: #00000000
 
 ! terminal transparency
 URxvt*inheritPixmap: true
 URxvt*transparent: true
 ! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
-URxvt*shading: 40
-URxvt*.blurRadius: 10
+URxvt*shading: 10
+URxvt*.blurRadius: 0
+
 
 ! special
-*.foreground:   #d8d6db
-*.background:   #08070a
-*.cursorColor:  #d8d6db
+*.foreground:   #e8dfd6
+*.background:   #021b21
+*.cursorColor:  #e8dfd6
 
 ! black
-*.color0:       #0f0e12
-*.color8:       #6cba9c
+*.color0:       #032c36
+*.color8:       #a2d9b1
 
 ! red
-*.color1:       #1a181e
-*.color9:       #ac93e8
+*.color1:       #0f4855
+*.color9:       #ef5847
 
 ! green
-*.color2:       #2b2932
-*.color10:      #ad6334
+*.color2:       #1a6070
+*.color10:      #2d8bcb
 
 ! yellow
-*.color3:       #44414d
-*.color11:      #a18ed0
+*.color3:       #26778a
+*.color11:      #beb090
 
 ! blue
-*.color4:       #635f70
-*.color12:      #ca8a62
+*.color4:       #3790a5
+*.color12:      #61778d
 
 ! magenta
-*.color5:       #888493
-*.color13:      #e39b6d
+*.color5:       #50aec4
+*.color13:      #c2454e
 
 ! cyan
-*.color6:       #b2b0b9
-*.color14:      #c1835b
+*.color6:       #7ad6eb
+*.color14:      #9ed9d8
 
 ! white
-*.color7:       #e3e2e5
-*.color15:      #7e4226
+*.color7:       #b3f1ff
+*.color15:      #f6f6c9
 
 
 
 rofi.modi:                drun,ssh,window
 
 !                         'background',  'border',      'separator'
-rofi.color-window:        argb:dd2d292e, argb:dd2d292e, argb:dd2d292e
+rofi.color-window:        argb:ee0e3642, argb:ee2d292e, argb:ee2d292e
 !                         'item bg'      'font'   'alt item bg'  'highlight bg' 'highlight font'
-rofi.color-normal:        argb:002d292e, #57525c, argb:002d292e, argb:002d292e, #ad6334
-rofi.color-urgent:        #2d292e, #cc6666, #2d292e, #2d292e, #a54242
-rofi.color-active:        #2d292e, #b5bd68, #2d292e, #2d292e, #8c9440
+rofi.color-normal:        argb:002d292e, #2d8bcb, argb:002d292e, argb:002d292e, #ffffff
+rofi.color-urgent:        #0e3642, #cc6666, #0e3642, #0e3642, #a54242
+rofi.color-active:        #0e3642, #b5bd68, #0e3642, #0e3642, #8c9440
 
 rofi.width:               50
 rofi.lines:               10
