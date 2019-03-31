@@ -69,35 +69,35 @@ URxvt*.blurRadius: 0
 
 ! black
 *.color0:       #032c36
-*.color8:       #a2d9b1
+*.color8:       #2d8bcb
 
 ! red
 *.color1:       #0f4855
-*.color9:       #ef5847
+*.color9:       #cb2d2d
 
 ! green
 *.color2:       #1a6070
-*.color10:      #2d8bcb
+*.color10:      #2dcb8a
 
 ! yellow
 *.color3:       #26778a
-*.color11:      #beb090
+*.color11:      #aecb2d
 
 ! blue
 *.color4:       #3790a5
-*.color12:      #61778d
+*.color12:      #2d5ecb
 
 ! magenta
 *.color5:       #50aec4
-*.color13:      #c2454e
+*.color13:      #482dcb
 
 ! cyan
 *.color6:       #7ad6eb
-*.color14:      #9ed9d8
+*.color14:      #2dcacb
 
 ! white
 *.color7:       #b3f1ff
-*.color15:      #f6f6c9
+*.color15:      #021b21
 
 
 

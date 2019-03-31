@@ -63,41 +63,40 @@ URxvt*.blurRadius: 0
 
 ! special
 *.foreground:   #c7cec2
-*.background:   #0e0e0d
+*.background:   #cdba93
 *.cursorColor:  #c7cec2
 
 ! black
-*.color0:       #171816
-*.color8:       #d2acb7
+*.color0:       #dac8a4
+*.color8:       #13192f
 
 ! red
-*.color1:       #1f211e
-*.color9:       #96ad85
+*.color1:       #e0d0b0
+*.color9:       #92082a
 
 ! green
-*.color2:       #30322f
-*.color10:      #cbb995
+*.color2:       #e1d3b8
+*.color10:      #219250
 
 ! yellow
-*.color3:       #474a45
-*.color11:      #e6b679
+*.color3:       #e6dbc6
+*.color11:      #8f9221
 
 ! blue
-*.color4:       #646861
-*.color12:      #b4997d
+*.color4:       #e9e0ce
+*.color12:      #213992
 
 ! magenta
-*.color5:       #878c83
-*.color13:      #e4b67e
+*.color5:       #eee7d9
+*.color13:      #6a2192
 
 ! cyan
-*.color6:       #afb6ab
-*.color14:      #aecd94
+*.color6:       #ede8dd
+*.color14:      #d0c49e
 
 ! white
-*.color7:       #dde5d7
-*.color15:      #b38ec6
-
+*.color7:       #efede6
+*.color15:      #04071a
 
 
 rofi.modi:                drun,ssh,window
