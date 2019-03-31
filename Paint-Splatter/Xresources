@@ -96,7 +96,7 @@ URxvt*.blurRadius: 0
 
 ! white
 *.color7:       #efede6
-*.color15:      #04071a
+*.color15:      #215465
 
 
 rofi.modi:                drun,ssh,window

@@ -95,7 +95,7 @@ URxvt*.blurRadius: 10
 
 ! white
 *.color7:       #b09fb6
-*.color15:      #a04f1c
+*.color15:      #7e3304
 
 
 
