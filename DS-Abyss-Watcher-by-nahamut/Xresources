@@ -47,7 +47,7 @@ Xcursor.size: 0
 polybar.foreground: #ae9996
 polybar.foregroundAlt: #ae9996
 polybar.background: #2c243b
-polybar.backgroundAlt: #6b7994
+polybar.backgroundAlt: #833b3f
 polybar.cursorColor: #6b7994
 
 polybar.foregroundFcs: #ccc6d2
@@ -136,4 +136,3 @@ rofi.kb-cancel:           Escape
 ! rofi.fake-transparency:   true
 ! rofi.fake-background:     screenshot
 ! rofi.drun-display-format: {name} [<span weight='light' size='small'><i>({generic})</i></span>]
-
