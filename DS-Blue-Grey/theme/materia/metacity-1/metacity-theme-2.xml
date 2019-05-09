@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>oomox-DS-Astorias</name>
+  <name>oomox-DS-Blue-Grey</name>
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2018</date>
-  <description>oomox-DS-Astorias Metacity theme</description>
+  <description>oomox-DS-Blue-Grey Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
 <constant name="C_titlebar" value="#284d81"/>
-<constant name="C_highlight" value="blend/#284d81/#101028/0.1"/>
-<constant name="C_title_focused" value="#101028"/>
-<constant name="C_title_unfocused" value="blend/#284d81/#101028/0.7"/>
+<constant name="C_highlight" value="blend/#284d81/#15152b/0.1"/>
+<constant name="C_title_focused" value="#15152b"/>
+<constant name="C_title_unfocused" value="blend/#284d81/#15152b/0.7"/>
 
 
 <!-- geometries -->

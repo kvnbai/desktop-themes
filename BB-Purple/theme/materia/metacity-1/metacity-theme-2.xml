@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>oomox-Bloodborne-Cleric-Beast</name>
+  <name>oomox-BB-Purple</name>
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2018</date>
-  <description>oomox-Bloodborne-Cleric-Beast Metacity theme</description>
+  <description>oomox-BB-Purple Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
 <constant name="C_titlebar" value="#301929"/>
-<constant name="C_highlight" value="blend/#301929/#b4a0a1/0.1"/>
-<constant name="C_title_focused" value="#b4a0a1"/>
-<constant name="C_title_unfocused" value="blend/#301929/#b4a0a1/0.7"/>
+<constant name="C_highlight" value="blend/#301929/#927f83/0.1"/>
+<constant name="C_title_focused" value="#927f83"/>
+<constant name="C_title_unfocused" value="blend/#301929/#927f83/0.7"/>
 
 
 <!-- geometries -->
