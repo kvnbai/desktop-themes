@@ -1,7 +1,7 @@
 # ~/.config/gtk-3.0/settings.ini
 
 [Settings]
-gtk-icon-theme-name=Papirus
+gtk-icon-theme-name=TLOU-Pale-Blue
 gtk-theme-name=TLOU-Pale-Blue
 gtk-cursor-theme-name=Breeze
 gtk-font-name=Noto Sans 10
