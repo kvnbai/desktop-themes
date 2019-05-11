@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>oomox-Lara-Croft</name>
+  <name>oomox-TR-Purple-Orange</name>
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2018</date>
-  <description>oomox-Lara-Croft Metacity theme</description>
+  <description>oomox-TR-Purple-Orange Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
 <constant name="C_titlebar" value="#19021e"/>
-<constant name="C_highlight" value="blend/#19021e/#ad6334/0.1"/>
-<constant name="C_title_focused" value="#ad6334"/>
-<constant name="C_title_unfocused" value="blend/#19021e/#ad6334/0.7"/>
+<constant name="C_highlight" value="blend/#19021e/#ac6234/0.1"/>
+<constant name="C_title_focused" value="#ac6234"/>
+<constant name="C_title_unfocused" value="blend/#19021e/#ac6234/0.7"/>
 
 
 <!-- geometries -->

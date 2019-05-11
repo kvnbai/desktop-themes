@@ -1,8 +1,8 @@
 # Based on Bridge by ScionicSpectre and Adwaita by GNOME
 # vim:set ts=2 sw=2 sts=2 ai et:
 #
-# This is the GTK+ 2 version of oomox-DS-Abyss-Watcher. It's whole purpose is to look as the
-# GTK+ 3 version as much as possible until GTK+ 2 dies completely.
+# This is the GTK 2 version of oomox-DS-Red-Grey. It's whole purpose is to look as the
+# GTK 3 version as much as possible until GTK 2 dies completely.
 #
 # Note: comments for explaining styles are on the bottom of each file beside the
 # widget matches.
@@ -12,9 +12,9 @@
 # order to not mess up the dark theme.
 
 # Text/base
-gtk-color-scheme = "text_color:#20192b\nbase_color:#9c9da0"
+gtk-color-scheme = "text_color:#2d253a\nbase_color:#9c9da0"
 # Foreground/background
-gtk-color-scheme = "fg_color:#20192b\nbg_color:#9c9da0"
+gtk-color-scheme = "fg_color:#2d253a\nbg_color:#9c9da0"
 # Selected foreground/background
 gtk-color-scheme = "selected_fg_color:#9c9da0\nselected_bg_color:#2d253a"
 # Titlebar foreground/background

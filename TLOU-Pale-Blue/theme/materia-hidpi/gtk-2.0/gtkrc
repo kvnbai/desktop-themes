@@ -1,8 +1,8 @@
 # Based on Bridge by ScionicSpectre and Adwaita by GNOME
 # vim:set ts=2 sw=2 sts=2 ai et:
 #
-# This is the GTK+ 2 version of oomox-TLOU-Pale-Blue. It's whole purpose is to look as the
-# GTK+ 3 version as much as possible until GTK+ 2 dies completely.
+# This is the GTK 2 version of oomox-TLOU-Pale-Blue. It's whole purpose is to look as the
+# GTK 3 version as much as possible until GTK 2 dies completely.
 #
 # Note: comments for explaining styles are on the bottom of each file beside the
 # widget matches.
@@ -12,15 +12,15 @@
 # order to not mess up the dark theme.
 
 # Text/base
-gtk-color-scheme = "text_color:#ffffff\nbase_color:#374d5b"
+gtk-color-scheme = "text_color:#c3cace\nbase_color:#374d5b"
 # Foreground/background
-gtk-color-scheme = "fg_color:#ffffff\nbg_color:#374d5b"
+gtk-color-scheme = "fg_color:#c3cace\nbg_color:#374d5b"
 # Selected foreground/background
-gtk-color-scheme = "selected_fg_color:#ffffff\nselected_bg_color:#0c2230"
+gtk-color-scheme = "selected_fg_color:#c3cace\nselected_bg_color:#0c2230"
 # Titlebar foreground/background
-gtk-color-scheme = "titlebar_fg_color:#ffffff\ntitlebar_bg_color:#1b2f3c"
+gtk-color-scheme = "titlebar_fg_color:#c3cace\ntitlebar_bg_color:#1b2f3c"
 # Tooltips foreground/background
-gtk-color-scheme = "tooltip_fg_color:#ffffff\ntooltip_bg_color:#616161"
+gtk-color-scheme = "tooltip_fg_color:#c3cace\ntooltip_bg_color:#616161"
 # Links
 gtk-color-scheme = "link_color:#0c2230\nvisited_link_color:#E040FB"
 

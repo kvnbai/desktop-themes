@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>oomox-Horizon-Zero-Dawn-Aloy</name>
+  <name>oomox-HZD-Red</name>
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2018</date>
-  <description>oomox-Horizon-Zero-Dawn-Aloy Metacity theme</description>
+  <description>oomox-HZD-Red Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
 <constant name="C_titlebar" value="#520a16"/>
-<constant name="C_highlight" value="blend/#520a16/#efdac5/0.1"/>
-<constant name="C_title_focused" value="#efdac5"/>
-<constant name="C_title_unfocused" value="blend/#520a16/#efdac5/0.7"/>
+<constant name="C_highlight" value="blend/#520a16/#c8a396/0.1"/>
+<constant name="C_title_focused" value="#c8a396"/>
+<constant name="C_title_unfocused" value="blend/#520a16/#c8a396/0.7"/>
 
 
 <!-- geometries -->
