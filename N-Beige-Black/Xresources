@@ -69,7 +69,7 @@ URxvt*shading: 15
 
 ! black
 *.color0:       #d4d3b8
-*.color8:       #050704
+*.color8:       #493729
 
 ! red
 *.color1:       #d7d6c2

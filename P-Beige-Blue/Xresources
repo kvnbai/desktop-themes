@@ -68,7 +68,7 @@ URxvt*shading: 5
 
 ! black
 *.color0:       #dac8a4
-*.color8:       #13192f
+*.color8:       #0e4f65
 
 ! red
 *.color1:       #e0d0b0
