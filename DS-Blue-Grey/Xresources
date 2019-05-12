@@ -65,7 +65,7 @@ URxvt*shading: 15
 ! special
 *.foreground:   #c5c8c6
 *.background:   #5c6b78
-*.cursorColor:  #c5c8c6
+*.cursorColor:  #284d81
 
 ! black
 *.color0:       #6b7986

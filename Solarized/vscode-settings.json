@@ -64,7 +64,14 @@
         "settings.modifiedItemIndicator": "#69b7ed",
         "settings.headerForeground": "#69b7ed",
         "breadcrumb.activeSelectionForeground": "#69b7ed",
-        "statusBar.background": "#0c3349"
+        "statusBar.background": "#0c3349",
+        "terminal.ansiBlack": "#0c3349",
+        "terminal.ansiRed": "#143649",
+        "terminal.ansiGreen": "#1c3949",
+        "terminal.ansiBrightBlack": "#69b7ed",
+        "terminal.foreground": "#69b7ed",
+        "terminalCursor.background": "#69b7ed",
+        "terminalCursor.foreground": "#69b7ed"
     },
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
