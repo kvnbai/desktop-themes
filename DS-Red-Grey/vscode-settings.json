@@ -65,13 +65,13 @@
         "settings.headerForeground": "#D4D3B8",
         "breadcrumb.activeSelectionForeground": "#D4D3B8",
         "statusBar.background": "#232027",
-        "terminal.ansiBlack": "#1d1b21",
-        "terminal.ansiRed": "#232027",
-        "terminal.ansiGreen": "#322f37",
-        "terminal.ansiBrightBlack": "#d14a52",
-        "terminal.foreground": "#d14a52",
-        "terminalCursor.background": "#d14a52",
-        "terminalCursor.foreground": "#d14a52"
+        "terminal.ansiBlack": "#4a0e0e",
+        "terminal.ansiRed": "#5f1a1a",
+        "terminal.ansiGreen": "#6d2727",
+        "terminal.ansiBrightBlack": "#ccc6d2",
+        "terminal.foreground": "#ccc6d2",
+        "terminalCursor.background": "#ccc6d2",
+        "terminalCursor.foreground": "#ccc6d2"
     },
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
@@ -80,3 +80,4 @@
     "editor.fontSize": 16,
     "window.zoomLevel": 0
 }
+
