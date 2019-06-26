@@ -1058,7 +1058,7 @@ StScrollView StScrollBar {
 }
 
 .switcher-arrow {
-  border-color: transparent;
+  border-color: rgba(0, 0, 0, 0);
   color: rgba(238, 236, 223, 0.7);
 }
 

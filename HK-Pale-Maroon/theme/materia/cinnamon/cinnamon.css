@@ -689,11 +689,11 @@ StScrollView StScrollBar {
 }
 
 .system-status-icon.warning {
-  color: #a39365;
+  color: #8e8a54;
 }
 
 .system-status-icon.error {
-  color: #a36565;
+  color: #8e5454;
 }
 
 #overview {
@@ -1058,7 +1058,7 @@ StScrollView StScrollBar {
 }
 
 .switcher-arrow {
-  border-color: transparent;
+  border-color: rgba(0, 0, 0, 0);
   color: rgba(255, 255, 255, 0.7);
 }
 
@@ -1092,7 +1092,7 @@ StScrollView StScrollBar {
 }
 
 .run-dialog-error-label {
-  color: #a36565;
+  color: #8e5454;
 }
 
 .run-dialog-error-box {
@@ -1118,7 +1118,7 @@ StScrollView StScrollBar {
 }
 
 .mount-password-reask {
-  color: #a39365;
+  color: #8e8a54;
 }
 
 .show-processes-dialog {
@@ -1352,7 +1352,7 @@ StScrollView StScrollBar {
 }
 
 .window-list-item-box .progress {
-  background-color: #6fa365;
+  background-color: #548e55;
 }
 
 .window-list-item-box.top StLabel, .window-list-item-box.bottom StLabel {
@@ -1360,7 +1360,7 @@ StScrollView StScrollBar {
 }
 
 .window-list-item-demands-attention {
-  background-color: #6fa365;
+  background-color: #548e55;
   color: rgba(255, 255, 255, 0.7);
 }
 
@@ -1394,7 +1394,7 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-thumbnail-alert {
-  background: #a39365;
+  background: #8e8a54;
 }
 
 .grouped-window-list-item-box {
@@ -1424,11 +1424,11 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-item-box .progress {
-  background-color: #6fa365;
+  background-color: #548e55;
 }
 
 .grouped-window-list-item-demands-attention {
-  background-color: #6fa365;
+  background-color: #548e55;
   color: rgba(255, 255, 255, 0.7);
 }
 

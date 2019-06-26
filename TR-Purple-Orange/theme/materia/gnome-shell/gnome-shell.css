@@ -621,7 +621,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .hidden {
-  color: transparent;
+  color: rgba(0, 0, 0, 0);
 }
 
 .prompt-dialog-null-label {
@@ -924,7 +924,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .switcher-arrow {
   transition-duration: 100ms;
-  border-color: transparent;
+  border-color: rgba(0, 0, 0, 0);
   color: rgba(172, 98, 52, 0.7);
 }
 
@@ -1079,7 +1079,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #panel .panel-button .system-status-icon {
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
   padding: 0 4px;
 }
 
@@ -1279,7 +1279,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .weather-forecast-icon {
-  icon-size: 2.28571em;
+  icon-size: 2.2857142857em;
 }
 
 .weather-forecast-time {
@@ -1325,7 +1325,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .calendar-change-month-back StIcon, .calendar-change-month-forward StIcon {
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
 }
 
 .calendar-day-base {
@@ -1471,7 +1471,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .message-icon-bin > StIcon {
   color: #ac6234;
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
   -st-icon-style: requested;
   margin: 4px 0px 4px 4px;
 }
@@ -1481,8 +1481,8 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .message-icon-bin > .fallback-window-icon {
-  width: 1.14286em;
-  height: 1.14286em;
+  width: 1.1428571429em;
+  height: 1.1428571429em;
 }
 
 .message-secondary-bin {
@@ -1500,7 +1500,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .message-secondary-bin > StIcon {
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
 }
 
 .message-title {
@@ -1620,13 +1620,13 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .aggregate-menu .popup-sub-menu .popup-menu-item > :first-child:ltr {
   /* 8px spacing + 2*4px padding */
   padding-left: 16px;
-  margin-left: 1.14286em;
+  margin-left: 1.1428571429em;
 }
 
 .aggregate-menu .popup-sub-menu .popup-menu-item > :first-child:rtl {
   /* 8px spacing + 2*4px padding */
   padding-right: 16px;
-  margin-right: 1.14286em;
+  margin-right: 1.1428571429em;
 }
 
 .system-menu-action {
@@ -1674,11 +1674,11 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .popup-menu-arrow {
   width: 16px;
   height: 16px;
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
 }
 
 .popup-menu-icon {
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
 }
 
 .window-close {
@@ -2253,7 +2253,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .notification-banner .secondary-icon {
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
 }
 
 .notification-banner .notification-actions {
@@ -2307,7 +2307,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .secondary-icon {
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
 }
 
 .chat-body {
@@ -2651,7 +2651,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .candidate-page-button-icon {
-  icon-size: 1.14286em;
+  icon-size: 1.1428571429em;
 }
 
 /* Auth Dialogs & Screen Shield */
