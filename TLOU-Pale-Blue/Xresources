@@ -49,6 +49,7 @@ polybar.foregroundAlt: #1a2f3d
 polybar.background: #ffffff
 polybar.backgroundAlt: #78858e
 polybar.cursorColor: #c5c8c6
+polybar.trayBackground: #78858e
 
 polybar.foregroundFcs: #374d5b
 polybar.backgroundTrn: #aaffffff
